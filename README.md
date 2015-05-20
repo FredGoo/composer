@@ -1,2 +1,3 @@
-# PATH #
-add the location of composer.phar to PATH
+# INSTALL #
+ln -s ./config.json ~/.composer/config.json
+sudo ln -s ./composer.phar /usr/local/bin/composer
